@@ -9,7 +9,7 @@ This project is a starting point for a Flutter application.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<video src="/results/screenshot_1.jpeg" width="260">
+![](https://j.gifs.com/JyVyoD.gif)
 
 A few resources to get you started if this is your first Flutter project:
 
